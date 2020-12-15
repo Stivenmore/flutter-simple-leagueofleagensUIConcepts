@@ -4,5 +4,5 @@ Esta app es un concepto de tienda creado por el diseñadr Nestor Jerez y publica
 
 Es un concepto simple aplicado por mi, utilizando Flutter con el lenguaje Dart.
 
-https://raw.githubusercontent.com/Stivenmore/flutter-simple-leagueofleagensUIConcepts/League_Of_Legends/1.jpeg
-https://raw.githubusercontent.com/Stivenmore/flutter-simple-leagueofleagensUIConcepts/League_Of_Legends/2.jpeg
+"https://raw.githubusercontent.com/Stivenmore/flutter-simple-leagueofleagensUIConcepts/League_Of_Legends/1.jpeg"
+"https://raw.githubusercontent.com/Stivenmore/flutter-simple-leagueofleagensUIConcepts/League_Of_Legends/2.jpeg"
