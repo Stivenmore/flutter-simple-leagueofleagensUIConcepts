@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:league_of_legends/Screens/Constants.dart';
-import 'package:league_of_legends/models/topventas.dart';
+import 'package:league_of_legends/models/champions.dart';
 
 class ItemsCardTop extends StatelessWidget {
-  final Topventa topventa;
+  final Champion topventa;
 
   const ItemsCardTop({Key key, this.topventa}) : super(key: key);
 

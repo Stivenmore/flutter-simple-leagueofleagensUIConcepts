@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:league_of_legends/Screens/Home/Components/itemsCardTop.dart';
-import 'package:league_of_legends/models/topventas.dart';
+import 'package:league_of_legends/models/champions.dart';
 
 class ListViewCardTop extends StatefulWidget {
   ListViewCardTop({Key key}) : super(key: key);
